@@ -43,8 +43,8 @@ models, emphasizing actionable recommendations for enhancing evolutionary
 outcomes. 
 
 **CONCLUSION AND RECOMMENDATION**  
-<p>The analysis of student academic performance using different machine learning and deep learning models has revealed significant insights into the complex transaction of demographic and socioeconomic factors. Key factors such as parental education levels, past academic performance (G1 and G2 grades), and study habits developed as crucial impacts on student outcomes. Among the models tested, lasso regression demonstrated the most accurate and reliable, explaining 90%  of the variance in student performance and demonstrating the least error metrics. To differentiate, the artificial neural network (ANN) model underperformed, demonstrating that linear models are more suitable for this dataset. </p>
-<p>To enhance future research, it is recommended to integrate additional differing datasets, utilize  real-time information streams for energetic experiences, investigate unsupervised learning 
+The analysis of student academic performance using different machine learning and deep learning models has revealed significant insights into the complex transaction of demographic and socioeconomic factors. Key factors such as parental education levels, past academic performance (G1 and G2 grades), and study habits developed as crucial impacts on student outcomes. Among the models tested, lasso regression demonstrated the most accurate and reliable, explaining 90%  of the variance in student performance and demonstrating the least error metrics. To differentiate, the artificial neural network (ANN) model underperformed, demonstrating that linear models are more suitable for this dataset. 
+To enhance future research, it is recommended to integrate additional differing datasets, utilize  real-time information streams for energetic experiences, investigate unsupervised learning 
 strategies, and incorporate more nuanced features like psychological factors and extracurricular 
 activities. Collaborating with educators and analysts will refine model inputs and ensure practical 
 applicability, whereas considering external variables such as community resources and school 
@@ -54,7 +54,7 @@ educational institutions. Policymakers should adopt these models to create targe
 based strategies that support student achievement and all encompassing improvement. Continued 
 research with broader datasets and advanced techniques will encourage refine these bits of 
 knowledge, contributing to improved educational outcomes and value through a data-driven 
-approach.</p>
+approach.
 
 **Note that: I have also attached the report of this project**
 
